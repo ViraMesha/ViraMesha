@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Valwax](https://github.com/ViraMesha/valwax)
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Unit testing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ViraMesha](https://github.com/ViraMesha)
 
